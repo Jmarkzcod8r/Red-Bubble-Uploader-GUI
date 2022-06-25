@@ -1,0 +1,37 @@
+//    This file is all about how to use the GUI 
+//                  INSTRUCTION MANUAL
+//
+// 1. Click the 'Get Pics' button and select the folder where you put your to-be-uploaded designs. This automatically takes the items inside the folder.
+//    It would be easier to put 60 pics in png file per folder same as the daily limit set by red bubble byt few or less is still okay. After a few seconds,
+//    The designs are uploaded into the frame. CLick the forward (">>") or back ("<<") button to navigate through. Just a few rows below, you can see the title
+//    for each one with the first design being the exception initially. This box is intended for information only. If you want to change the name of the design,
+//    navigate into the upper right corner and use the Title box meant for so. You can click the forward and back bnuttons succeedingly to see the the pre-designated 
+//    titles.
+//
+// 2. The tags box is designated with initial value of numbers on them after getting the pictures. In order to use it to the maximum, make a file in a notepad
+//    in .txt format. Write your tags there. Examples of which are "Dad, Father, Panda, Family". Note, do not put coma or period at the end. Once you're done, click the 
+//    button besides the box ("*/"). It will open a box. Select your text file and see it flash in the tags box all shuffled up. This would be the same for all your 
+//    designs. You can view this as common tags. You can modify in the box as you want. Clicking any of either the back or forward button will automatically save
+//    your changes.
+//
+// 3. The description component works almost the same with the tags box. You can create a folder and inside it, you can make as many text files with different 
+//    descriptions. If you create five text files, the algorithm will randomly select one out of those five files to be used for your desciption of a specific design.
+//    Unlike the tags button, the description button located on the side of the text area selects a folder directory where you have stored your text description files.
+//
+//    It is important to note that the title, tags and description boxes meant for modifications does not accept null inputs. This means that if you leave them with
+//    a blank input, no change will be applied to your existing set. Thus, there will always be a value for any one of the three components. Click the forward and back
+//    buttons succeddingly for confirmation.
+//
+// 4. In the 'Copy settings', simply put the 'url' of the design you wish to copy.You may open your red bubble account to get your desired target for the time being.
+//    but it is suggested you close it right after to avoid any possible conflict once the automated uploading begins.
+//
+// 5. Once you're done manipulating your designs, you may now click 'Proceed'. It will then open a login page to red bubble where you'll have to put your credentials
+//    manually. A pop up on the interface side will pop up asking if you have loggen in or not. Only confirm, once you're in. The red bubble site usually displays a
+//    pop up once you'r logged in. This won't matter though once you click 'yes' to the confirmation login pop up.
+//
+// 6. When the uploading process begines after you've confirmed. You can see how the system uploads your designs one after another. It is suggested to avoid manipulating 
+//    the window where the uploading is being done. Don't zoom in or out. Changing the size is also not encouraged. In a small chance, uploading one design is taking long
+//    You can manually click the 'submit' button and still the automated uploading will still continue. You will also have the option to review them later as the window
+//    will remain open after all the designs are uploaded.
+//
+//    Further note, the 'Print' button is what I use for debuggin and therefore would be of no use. Clicking it would yield no changes whatsoever.
