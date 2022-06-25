@@ -34,4 +34,9 @@
 //    You can manually click the 'submit' button and still the automated uploading will still continue. You will also have the option to review them later as the window
 //    will remain open after all the designs are uploaded.
 //
-//    Further note, the 'Print' button is what I use for debuggin and therefore would be of no use. Clicking it would yield no changes whatsoever.
+//    Further note, the 'Print' button is what I use for debuggin and therefore would be of no use. Clicking it would yield no changes whatsoever. Also, during the
+//    uploading process, the title is added as an add-on to both the tags and description. This implies that if you have 55 tags written in your tags text file, the
+//    final result will be 56 tags designated for that particualr design with the title being the 56th one. The title also adds itself on the ending part of the 
+//    description to add some better SEO chances.
+//
+//    For feedbacks and suggestions, feel free to contact me...Thanks...
